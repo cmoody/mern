@@ -1,0 +1,41 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "comma-dangle": 0,
+        "eol-last": 0,
+        "object-curly-spacing": [
+            2,
+            "always"
+        ],
+        "arrow-body-style": 0,
+        "consistent-return": 0,
+        "no-param-reassign": 0,
+        "no-else-return": 0,
+        "no-unused-vars": [
+            2,
+            {
+                "args": "none"
+            }
+        ],
+        "no-nested-ternary": 0,
+        "max-len": 0,
+        "radix": 0,
+        "no-shadow": 0,
+        "no-use-before-define": [
+            2,
+            {
+                "functions": false
+            }
+        ],
+        "jsx-quotes": [
+            2,
+            "prefer-double"
+        ],
+        "no-underscore-dangle": 0,
+        "new-cap": 0,
+        "import/no-unresolved": 0,
+        "prefer-arrow-callback": 0,
+        "func-names": 0,
+        "space-before-function-paren": 0
+    }
+}

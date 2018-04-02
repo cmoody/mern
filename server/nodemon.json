@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "./"
+  ],
+  "env": {
+    "DB_HOST": "",
+    "DB_PASS": "",
+    "DB_USERNAME": "",
+    "DB_NAME": ""
+  }
+}
